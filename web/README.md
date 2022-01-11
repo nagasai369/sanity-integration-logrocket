@@ -1,0 +1,1 @@
+sanity-integration-logrocket-web
